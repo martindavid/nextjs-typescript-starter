@@ -10,10 +10,10 @@
     "@zeit/next-css": "1.0.1",
     "apisauce": "^1.1.1",
     "isomorphic-unfetch": "^3.0.0",
-    "next": "^9.0.5",
+    "next": "9.0.5",
     "nprogress": "^0.2.0",
-    "react": "^16.10.0",
-    "react-dom": "^16.10.0",
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
     "reactstrap": "^8.0.1",
     "styled-components": "^4.4.0"
   },
